@@ -1,7 +1,7 @@
 # POI Data Quality Analysis
 
 ## Overview
-The project performs data analysis on Points of Interest (POI) dataset in order to divide it into 3 subsets of high, medium, and low-quality records. The goal is to ensure the highest quality of POI data.
+The project performs data analysis on Points of Interest (POI) dataset in order to divide it into 3 subsets of high, medium, and low-quality records. The goal is to ensure the highest quality of POI data. Dataset analyzed is San Francisco restaurants' inspections data.
 
 ## Project Structure
 - **input_files/**: Input CSV files for analysis.
