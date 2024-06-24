@@ -6,7 +6,7 @@ The project performs data analysis on Points of Interest (POI) dataset in order 
 ## Project Structure
 - **input_files/**: Input CSV files for analysis.
 - **scripts/**: Python scripts for data analysis, splitting data into subsets, and visualizations.
-- **results/**: Analysis summary PDF, presentation slides and excel file with examples used for the presentation.
+- **documented_results/**: Analysis summary PDF, presentation slides and excel file with examples used for the presentation.
 
 ## Running the script
 1. Clone the repository:
